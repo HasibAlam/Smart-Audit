@@ -4,24 +4,42 @@ A smart auditing platform where .sol are scanned for vulnerabilities and these  
 
 To start download the project,
 
-cd to the folder you moved 
+ **Navigate to the folder:**
+ 
 activate the environment 
+
 source project/bin/activate (activate environment)
+
 npm build
+
 uvicorn main:app --reload (to start the API)
+
 npm start
 
 If you can't run the dependencies install the following
+
 •	Activate conda or follow my steps above
+
 •	pip3 install solc-select
+
 •	pip3 install slither-analyzer
+
 •	git clone https://github.com/crytic/slither.git 
+
 •	Cd slither 
+
 •	python3 setup.py install
+
 •	Check the version slither –version
+
 •	solc-select install 0.8.4
+
 •	solc-select use 0.8.4
+
 •	Install fastapi
+
 •	Install uvicorn
+
 •	And activate the uvicorn
+
 •	uvicorn main:app --reload
