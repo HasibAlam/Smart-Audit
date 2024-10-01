@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d88326ce.css",
+    "main.js": "/static/js/main.3b82fafc.js",
+    "static/js/787.890c2f1e.chunk.js": "/static/js/787.890c2f1e.chunk.js",
+    "static/media/Skullsandcrossbones-RppKM.ttf": "/static/media/Skullsandcrossbones-RppKM.2aa155bceb89ae0e3e8b.ttf",
+    "index.html": "/index.html",
+    "main.d88326ce.css.map": "/static/css/main.d88326ce.css.map",
+    "main.3b82fafc.js.map": "/static/js/main.3b82fafc.js.map",
+    "787.890c2f1e.chunk.js.map": "/static/js/787.890c2f1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d88326ce.css",
+    "static/js/main.3b82fafc.js"
+  ]
+}
